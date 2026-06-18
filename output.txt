@@ -1,0 +1,62 @@
+============================================================
+Comparing:
+  old: old_file.xlsx  (1 sheet(s))
+  new: new_file.xlsx  (1 sheet(s))
+============================================================
+
+  [DIFF] Sheet 'Sheet1': 10 row(s) differ
+
+  --- Row 8981 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 41.072822
+                          new: 41.072821
+
+  --- Row 9003 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 23.434187
+                          new: 23.434186
+
+  --- Row 41061 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 61.898788
+                          new: 61.898789
+
+  --- Row 48464 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 47.123778
+                          new: 47.123779
+
+  --- Row 159209 ---
+    MargineAlNettoSogliaContribAltroTOT  old: 6.365977
+                          new: 6.365978
+    MargineAlNettoSogliaeCntribTOT  old: 6.365977
+                          new: 6.365978
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 6.365977
+                          new: 6.365978
+    RitornoIDSKupitTOT    old: 5.450977
+                          new: 5.450978
+
+  --- Row 159366 ---
+    MargineAlNettoSogliaContribAltroTOT  old: 5.28721
+                          new: 5.287211
+    MargineAlNettoSogliaeCntribTOT  old: 5.28721
+                          new: 5.287211
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 5.28721
+                          new: 5.287211
+    RitornoIDSKupitTOT    old: 4.49421
+                          new: 4.494211
+
+  --- Row 186579 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 20.309919
+                          new: 20.30992
+
+  --- Row 186689 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 38.289192
+                          new: 38.289193
+
+  --- Row 226931 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 15.508599
+                          new: 15.508598
+
+  --- Row 228612 ---
+    MarginePreSharingAlNettoSogliaeCntribTOT  old: 78.885864
+                          new: 78.885863
+
+============================================================
+RESULT: Files differ. See details above.
