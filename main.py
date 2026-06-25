@@ -80,6 +80,10 @@ def compare_sheets(old_file: Path, new_file: Path, sheet_name: str, out: IO[str]
             out.write(f"    new : <row missing>\n\n")
             continue
 
+        out.write(f"    old : {old_row}\n")
+        out.write(f"    new : {new_row}\n")
+        out.write(f"    --- differences ---\n")
+
         max_cols = max(len(old_row), len(new_row))
         for col_idx in range(max_cols):
             old_val = old_row[col_idx] if col_idx < len(old_row) else "<missing>"

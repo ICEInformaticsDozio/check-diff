@@ -1,9 +1,0 @@
-============================================================
-Comparing:
-  old: old_file.xlsx  (1 sheet(s))
-  new: new_file.xlsx  (1 sheet(s))
-============================================================
-
-  [OK] Sheet 'Sheet1': no differences found (295651 rows)
-============================================================
-RESULT: Files are identical.
